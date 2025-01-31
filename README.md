@@ -3,7 +3,7 @@
 Created Readme.md
 Intialized Readme.md
 
-***Milestone_2***
+***Milestone_2***:
 
 Organizing Project Structure – Set up a well-structured project by separating frontend and backend into dedicated directories for better organization.
 
