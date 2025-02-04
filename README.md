@@ -18,6 +18,7 @@ Developing the Login Page – Build the login page as the first UI component, en
 
 **Milestone_3**
 
+
 Backend folder structure
 Create a structured hierarchy for organizing routes, controllers, models, and middleware.
 Server Setup
@@ -35,3 +36,16 @@ In today's live session , we did the following in milestone_4
 2. Created a User Controller: This will help us manage what happens with our user data (like adding a new user or getting their information).
 3. Enabled and configured Multer
 4. Updated the README.md file.
+=======
+1) Backend folder structure
+2) Create a structured hierarchy for organizing routes, controllers, models, and middleware.
+
+# Server Setup
+
+1) Use Node.js and Express to create a backend server.
+2) Configure the server to listen on a designated port. Database Connection
+3) Integrate MongoDB for efficient data storage.
+4) Confirm the connection between the server and MongoDB.
+5) Error Handling
+6) Provide clear error messages for better debugging and user feedback.
+
