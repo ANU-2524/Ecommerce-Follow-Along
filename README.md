@@ -83,6 +83,23 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
+ ### Milestone 6: Secure User Registration
+*✅ Goals:*
+1. *Password Encryption:*
+   - Used bcrypt to hash passwords before storing them in the database.
+   - Ensured no plaintext passwords are stored.
+2. *Secure Data Storage:*
+   - Stored the user's encrypted password along with other necessary details in MongoDB.
+3. *Updated API Endpoints:*
+   - Modified the user registration endpoint to handle password hashing securely.
+4. *Security Compliance:*
+   - Followed best practices for protecting user credentials.
+   - Complied with security standards like GDPR and PCI-DSS.
+5. *README Update:*
+   - Documented progress for Milestone 6 and updated the repository.
+
+
+
 ## ▶ How to Run the Project
 1. Clone the repository:
    bash
@@ -107,5 +124,5 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
- 
+
 
