@@ -98,6 +98,17 @@ This project is an e-commerce website developed through a series of milestones, 
 5. *README Update:*
    - Documented progress for Milestone 6 and updated the repository.
 
+---
+
+## 🏆 Milestone 7: Secure Login with Password Verification
+- Developed a *backend endpoint* for user login.
+- Implemented *user authentication* by validating credentials.
+- Used *bcrypt* to compare hashed passwords securely.
+- Ensured compliance with *security standards* like GDPR and PCI-DSS.
+- Returned appropriate error messages for *invalid credentials*.
+- Updated the *README.md* file with progress details.
+- Committed and pushed changes to the *GitHub repository*.
+
 
 
 ## ▶ How to Run the Project
