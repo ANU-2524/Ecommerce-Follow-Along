@@ -110,6 +110,19 @@ This project is an e-commerce website developed through a series of milestones, 
 - Committed and pushed changes to the *GitHub repository*.
 
 
+---
+
+## 🏆 Milestone 8: Product Card Component and Homepage Design
+- Designed a *reusable Product Card Component* to display product details.
+- Implemented *props* to pass product information dynamically (e.g., name, price, image).
+- Used *array mapping* to display multiple products efficiently.
+- Designed a *structured homepage layout* with a clean and visually appealing UI.
+- Ensured *responsiveness* using CSS Grid or Flexbox.
+- Updated the *README.md* file with progress details.
+- Committed and pushed changes to the *GitHub repository*.
+
+---
+
 
 ## ▶ How to Run the Project
 1. Clone the repository:
