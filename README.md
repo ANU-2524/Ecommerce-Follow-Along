@@ -100,7 +100,7 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
-## 🏆 Milestone 7: Secure Login with Password Verification
+### 🏆 Milestone 7: Secure Login with Password Verification
 - Developed a *backend endpoint* for user login.
 - Implemented *user authentication* by validating credentials.
 - Used *bcrypt* to compare hashed passwords securely.
@@ -112,7 +112,7 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
-## 🏆 Milestone 8: Product Card Component and Homepage Design
+### 🏆 Milestone 8: Product Card Component and Homepage Design
 - Designed a *reusable Product Card Component* to display product details.
 - Implemented *props* to pass product information dynamically (e.g., name, price, image).
 - Used *array mapping* to display multiple products efficiently.
@@ -122,6 +122,14 @@ This project is an e-commerce website developed through a series of milestones, 
 - Committed and pushed changes to the *GitHub repository*.
 
 ---
+### 🏆 Milestone 9: Product Form Creation
+✅ Goals:
+
+- Product Form: Developed a product form for adding products with multiple images.
+- Admin Access (Optional): Experimenting with adding admin-specific upload functionality.
+- User Profiles (Optional): Considering adding shop-specific user roles for uploading products.
+- Next Steps: Implement role-based access, improve validation, and optimize image upload.
+
 
 
 ## ▶ How to Run the Project
