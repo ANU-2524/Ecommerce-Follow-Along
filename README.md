@@ -130,7 +130,7 @@ This project is an e-commerce website developed through a series of milestones, 
 - User Profiles (Optional): Considering adding shop-specific user roles for uploading products.
 - Next Steps: Implement role-based access, improve validation, and optimize image upload.
 
-### Milestone 10: Product Schema and API Endpoint Creation
+### Milestone 10: Product Schema and API Endpoint Creation  
 ✅ Goals:
 
 ## Product Schema:
