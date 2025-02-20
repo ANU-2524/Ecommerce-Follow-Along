@@ -101,7 +101,7 @@ router.get('/my-products', async (req, res) => {
       const products = await Product.find({ email });
       const productsWithFullImageUrl = products.map(product => {
           if (product.images && product.images.length > 0) {
-              product.images = product.images.map(imagePath => {
+              product.images = product.images.map(imagePath => {  
                   return imagePath;
               });
           }
