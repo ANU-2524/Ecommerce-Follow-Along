@@ -225,6 +225,35 @@ This project is an e-commerce website developed through a series of milestones, 
    - Pushed the updated code to GitHub.  
    - Ensured project documentation is complete and easy to understand.  
 
+--- 
+
+
+# Milestone 14 - Delete Product Functionality
+
+## Overview
+In this milestone, we implemented a delete functionality that allows users to remove a product from the database using its unique ID. This involved updating both the frontend and backend to support the delete operation.
+
+## Learning Outcomes
+By completing this milestone, we learned:
+- How to create an API endpoint to delete a product from MongoDB using its ID.
+- How to integrate the delete feature in the frontend.
+- How to handle delete requests and update the UI accordingly.
+
+## Steps Implemented
+1. *Backend:*
+   - Created an Express.js endpoint to handle DELETE requests.
+   - Used MongoDB's delete operation to remove the product by its ID.
+
+2. *Frontend:*
+   - Added a delete button to each product card.
+   - Implemented an event listener to send a delete request to the server when the button is clicked.
+   - Updated the UI dynamically after a successful deletion.
+
+## API Endpoint
+*Method:* DELETE  
+*Endpoint:* /api/products/:id  
+*Description:* Deletes a product from the database using the provided ID.
+
 
 
 ## ▶ How to Run the Project  
