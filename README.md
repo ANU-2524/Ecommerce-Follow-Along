@@ -288,8 +288,30 @@ By completing this milestone, we learned:
 
 ---
 
+### Milestone 16: Product Info Page  
 
+✅ Goals:  
 
+#### ⿡ Creating the Product Info Page  
+- Designed a dedicated page to display detailed product information, including:  
+  - Product Name  
+  - Description  
+  - Price  
+  - Image(s)  
+
+#### ⿢ Adding Quantity Selection & "Add to Cart" Button  
+- Implemented a quantity selector to allow users to choose the desired quantity.  
+- Added an "Add to Cart" button to store selected items in the cart.  
+
+#### ⿣ Dynamic Routing for Product Details  
+- Utilized React Router to create dynamic routes for each product.  
+- Fetched product details based on the product ID from the URL.  
+
+#### ⿤ Enhancing User Experience  
+- Ensured mobile responsiveness for smooth browsing on all devices.  
+- Implemented loading indicators for better user experience.  
+
+ 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
