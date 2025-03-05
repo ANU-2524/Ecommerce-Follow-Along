@@ -255,6 +255,40 @@ By completing this milestone, we learned:
 *Description:* Deletes a product from the database using the provided ID.
 
 
+### Milestone 15: Navbar Component & Navigation  
+
+✅ **Goals:**  
+
+⿡ **Create a Navbar Component**  
+- Designed a **reusable** Navbar component.  
+- Included navigation links for:  
+  - **Home**  
+  - **My Products**  
+  - **Add Product**  
+  - **Cart**  
+
+⿢ **Make Navbar Responsive**  
+- Ensured the Navbar adapts to **all screen sizes** (desktop, tablet, mobile).  
+- Used **Tailwind CSS** for styling and responsiveness.  
+
+⿣ **Integrate Navbar Across Pages**  
+- Added the **Navbar component** to all screens.  
+- Ensured smooth navigation between pages.  
+
+⿤ **Improve User Experience**  
+- Implemented **active link highlighting** to indicate the current page.  
+- Used **React Router** for seamless routing.  
+
+✅ **Final Steps:**  
+- **Tested** the navigation flow.  
+- **Updated** the `README.md` with Milestone 15 details.  
+- **Pushed** changes to GitHub.  
+
+🚀 **Next Up:** Continue improving UI and adding more interactive features!  
+
+---
+
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
