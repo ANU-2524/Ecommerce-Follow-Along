@@ -96,7 +96,7 @@ router.get("/get-products", async (req, res) => {
           return imagePath;
         });
       }
-      return product;
+      return product; 
     });
     res.status(200).json({ products: productsWithFullImageUrl });
   } catch (err) {
