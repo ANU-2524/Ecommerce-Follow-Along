@@ -385,6 +385,37 @@ By completing this milestone, we learned:
 
 - Maintained a clean UI design with clear quantity controls.
 
+---
+### Milestone 20: Profile Page
+
+✅ Goals:
+
+### ⿡ Backend - User Data Endpoint
+
+- Created an API endpoint to send all user data including profile details and addresses.
+
+- Ensured the endpoint is secure and accessible only to authenticated users.
+
+### ⿢ Frontend - Profile Page UI
+
+- Designed a Profile Page that displays:
+
+   - Profile Photo
+
+   - Name
+
+   - Email
+
+   - List of Addresses
+
+- Added a clear "Add Address" button for adding new addresses.
+
+- Displayed "No address found" when no addresses are available.
+
+### ⿣ Enhancing User Experience
+
+- Ensured the profile page design is clean and easy to navigate.
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
