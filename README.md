@@ -363,6 +363,29 @@ By completing this milestone, we learned:
 - Ensured a mobile-friendly UI for a seamless experience.
 
  
+### Milestone 19: Cart Quantity Management
+
+✅ Goals:
+
+### ⿡ Frontend - Cart Page UI Enhancements
+
+- Added + and - buttons next to each product to modify its quantity.
+
+- Ensured real-time updates for accurate pricing adjustments.
+
+### ⿢ Backend - Quantity Management Endpoint
+
+- Created two API endpoints to increase and decrease product quantity in the cart.
+
+- Integrated logic to prevent negative quantities and handle item removal automatically when reduced to zero.
+
+### ⿣ Enhancing User Experience
+
+- Ensured instant feedback when quantity adjustments are made.
+
+- Maintained a clean UI design with clear quantity controls.
+
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
