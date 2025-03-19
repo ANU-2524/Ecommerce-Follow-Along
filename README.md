@@ -416,6 +416,31 @@ By completing this milestone, we learned:
 
 - Ensured the profile page design is clean and easy to navigate.
 
+---
+
+# Milestone 21: Address Form Page
+
+✅ *Goals:*
+
+### ⿡ Frontend - Address Form Page
+
+- Created an address form page that collects the following details:
+  - *Country*
+  - *City*
+  - *Address Line 1*
+  - *Address Line 2*
+  - *ZIP Code*
+  - *Address Type* (e.g., Home, Office, etc.)
+
+- Implemented a state that stores the address input data for better management.
+
+- Ensured that when users click the "Add Address" button on the Profile Page, they are navigated to this form page.
+
+### ⿢ Enhancing User Experience
+
+- Designed the address form to be user-friendly and intuitive.
+- Ensured clear input labels and proper validation for required fields.
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
