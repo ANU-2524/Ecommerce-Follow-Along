@@ -441,6 +441,22 @@ By completing this milestone, we learned:
 - Designed the address form to be user-friendly and intuitive.
 - Ensured clear input labels and proper validation for required fields.
 
+---
+# Milestone 22: Address Storage Endpoint
+
+✅ *Goals:*
+
+### ⿡ Backend - Address Storage Endpoint
+
+- Created an API endpoint that receives address data from the frontend address form.
+- Added logic to store the received address inside the address array within the user's profile collection in the database.
+- Ensured endpoint security by restricting access to authenticated users only.
+
+### ⿢ Enhancing User Experience
+
+- Ensured proper error handling to manage invalid data entries.
+- Implemented success and error response messages for clear user feedback.
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
