@@ -457,6 +457,23 @@ By completing this milestone, we learned:
 - Ensured proper error handling to manage invalid data entries.
 - Implemented success and error response messages for clear user feedback.
 
+---
+# Milestone 23: Product Image Upload Feature
+
+✅ *Goals:*
+
+### ⿡ Backend - Product Image Upload Endpoint
+
+- Created an API endpoint for uploading product images using *Multer*.
+- Integrated image storage logic to save uploaded images in a designated folder and store their paths in the database.
+- Ensured endpoint security by restricting access to admin users only.
+
+### ⿢ Enhancing User Experience
+
+- Implemented clear success and error response messages for better feedback.
+- Added file type validation to allow only image formats (e.g., .jpg, .png, .jpeg).
+- Set a file size limit to prevent large uploads from slowing down the system.
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
