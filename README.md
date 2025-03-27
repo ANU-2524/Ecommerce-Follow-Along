@@ -474,6 +474,18 @@ By completing this milestone, we learned:
 - Added file type validation to allow only image formats (e.g., .jpg, .png, .jpeg).
 - Set a file size limit to prevent large uploads from slowing down the system.
 
+# Milestone 24: Order Confirmation Page
+
+✅ *Goals:*
+
+### ⿡ Frontend - Order Confirmation Page
+
+- Developed an *Order Confirmation Page* that displays the following details:
+  - ✅ List of all products in the order with relevant details.
+  - ✅ The selected *delivery address* for clear reference.
+  - ✅ The *total cart value* calculated dynamically.
+  - ✅ A prominent *"Place Order"* button for finalizing the purchase.
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
