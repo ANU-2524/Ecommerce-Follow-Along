@@ -487,6 +487,29 @@ By completing this milestone, we learned:
   - ✅ A prominent *"Place Order"* button for finalizing the purchase.
 
 
+# Milestone25 API Implementation Overview
+Place Order API Implementation Overview In this milestone, we implemented a backend endpoint to handle order placement. This API receives product details, user information, and address details, processes the order, and stores it in the MongoDB database.
+
+Features Implemented Created a new backend endpoint to place an order.
+
+Retrieved the _id of the user using their email.
+
+Processed multiple product orders with the same delivery address.
+
+Stored order details in MongoDB using the orders collection.
+
+Backend Implementation
+
+Created Order Schema (models/Order.js) Defined the structure of the Order collection in MongoDB.
+
+Created a Place Order Endpoint (routes/orderRoutes.js) Accepts products, user email, and address details.
+
+Retrieves user _id using the email.
+
+Creates a separate order entry for each product.
+
+Saves orders in the database.
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
