@@ -510,6 +510,30 @@ Creates a separate order entry for each product.
 
 Saves orders in the database.
 
+# Milestone 26 🚀 Fetch User Orders API Implementation
+
+In this milestone, we implemented a backend endpoint to fetch all orders placed by a specific user. This API receives the user’s email, retrieves their _id, and fetches all associated orders from the MongoDB database.
+
+Features Implemented ✅
+Created a new backend endpoint to fetch all orders of a user.
+
+Retrieved the _id of the user using their email.
+
+Queried the database to get all orders associated with the user.
+
+Sent the list of orders in the response.
+
+Backend Implementation 🛠
+
+⿡ Created a GET Order Endpoint (routes/orderRoutes.js)
+Accepts the user’s email as a query parameter.
+
+Finds the corresponding _id of the user.
+
+Retrieves all orders associated with the user from the orders collection.
+
+Returns the orders in the response.
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
