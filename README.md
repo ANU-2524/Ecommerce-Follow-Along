@@ -534,6 +534,22 @@ Retrieves all orders associated with the user from the orders collection.
 
 Returns the orders in the response.
 
+Milestone 27: My Orders Page
+✅ Goals:
+
+1️⃣ Frontend - My Orders Page
+Created a dedicated My Orders page to display all user orders.
+Implemented a GET request to the /my-orders endpoint to fetch the user's orders.
+Sent the user's email in the request to retrieve relevant orders from the database.
+2️⃣ Enhancing User Experience
+Displayed order details in a structured format for better readability.
+Added error handling for cases such as missing orders or failed requests.
+Integrated the My Orders page into the navigation bar for easy access.
+3️⃣ Submission Steps
+✅ Pushed the updated code to the GitHub repository.
+✅ Updated the README.md file with Milestone 27 details.
+✅ Shared the repository link for submission.
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
