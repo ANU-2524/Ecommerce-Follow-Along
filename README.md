@@ -562,6 +562,18 @@ Integrated the My Orders page into the navigation bar for easy access.
 ✅ Provided instant *UI feedback* after canceling an order.  
 
 
+🏆 *Milestone 29: Integrating PayPal for Online Payments*
+
+### *Achievements*
+✅ Created and set up a *PayPal developer account*.  
+✅ Generated *Sandbox Account* and obtained *Client ID* for integration.  
+✅ Saved *PayPal Sandbox User ID* and *Client ID* for future use.  
+✅ Added *payment method options (COD and Online Payment)* on the order confirmation page.  
+✅ Implemented *radio buttons* for users to select between *Cash on Delivery (COD)* and *Online Payment*.  
+✅ Configured the frontend to *conditionally render PayPal button placeholder* when "Online Payment" is selected.  
+✅ Prepared the frontend for PayPal button integration in the next milestone.  
+✅ Updated the *README.md* with milestone progress.  
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
