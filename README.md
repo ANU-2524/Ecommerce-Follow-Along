@@ -550,6 +550,18 @@ Integrated the My Orders page into the navigation bar for easy access.
 ✅ Updated the README.md file with Milestone 27 details.
 ✅ Shared the repository link for submission.
 
+
+🏆 *Milestone 28: Cancel Order Functionality*
+
+### *Achievements*
+✅ Added a *"Cancel Order" button* for each order in the My Orders page UI.  
+✅ Ensured the *Cancel button is hidden* if the order is already marked as "Cancelled".  
+✅ Created a *backend endpoint* to handle canceling orders via order-id.  
+✅ Implemented logic to *fetch order by ID*, update its status to "Cancelled" and save it in the database.  
+✅ Connected the frontend cancel button to the backend cancel order API.  
+✅ Provided instant *UI feedback* after canceling an order.  
+
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
