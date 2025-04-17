@@ -574,6 +574,30 @@ Integrated the My Orders page into the navigation bar for easy access.
 ✅ Prepared the frontend for PayPal button integration in the next milestone.  
 ✅ Updated the *README.md* with milestone progress.  
 
+
+### *Milestone 30: Integrating Online Payments with PayPal*
+✅ Goals:
+
+1️⃣ Backend - PayPal Integration
+      Created a PayPal Developer account and registered a sandbox account.
+      Retrieved the Client ID for API authentication.
+      Configured PayPal API settings to enable online transactions.
+2️⃣ Frontend - Implementing PayPal Payment Gateway
+      Installed react-paypal-js package using:
+      npm install @paypal/react-paypal-js
+      Imported PayPalScriptProvider and PayPalButtons components.
+      Wrapped the application with PayPalScriptProvider and passed the clientId.
+      Configured the PayPal button to handle transactions and capture payments.
+3️⃣ Enhancing User Experience
+      Handled payment success and failure scenarios.
+      Provided feedback to users on transaction status.
+      Ensured security measures for processing payments.
+4️⃣ Submission Steps
+      ✅ Pushed the updated code to the GitHub repository.
+      ✅ Updated the README.md file with Milestone 30 details.
+      ✅ Shared the repository link for submission.
+
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
