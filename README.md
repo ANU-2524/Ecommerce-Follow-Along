@@ -597,6 +597,21 @@ Integrated the My Orders page into the navigation bar for easy access.
       ✅ Updated the README.md file with Milestone 30 details.
       ✅ Shared the repository link for submission.
 
+## *Milestone 31: Global State Management with Redux*
+✅ Goals:
+1️⃣ Backend - Redux Store Setup
+         Created a Redux store to manage global state for the application.
+         Configured the Redux store with a user reducer to handle the user email state.
+         Added actions for updating and accessing the global email state.
+2️⃣ Frontend - Implementing Redux
+         Installed the react-redux package using:
+         npm install react-redux
+         Created a folder structure with store.js and userActions.js.
+         Wrapped the App component with the Provider component to pass the Redux store to the rest of the application.
+3️⃣ Enhancing User Experience with Redux
+         Handled the global state of the user email and ensured it's accessible across all components.
+         Allowed for easy management and updating of the email state via Redux actions and reducers.
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
