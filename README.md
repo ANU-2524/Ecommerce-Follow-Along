@@ -630,6 +630,14 @@ Integrated the My Orders page into the navigation bar for easy access.
       Confirmed correct order details post-payment
       Tested on both desktop and mobile browsers
 
+## *Milestone 33 - JWT Token Creation & Cookie Storage 🍪🔐*
+Welcome to Milestone 33 of the Kalvium journey! In this milestone, we learned how to securely create a JWT (JSON Web Token) and store it inside a browser cookie — a foundational step for implementing authentication in modern web applications.
+
+🚀 What I Learned How to generate a JWT using the jsonwebtoken package.
+
+      How to store the token in a browser cookie using Express.
+      The importance of setting token expiration with maxAge.
+      How cookies help persist authentication data on the client side.
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
