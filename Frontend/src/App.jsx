@@ -13,7 +13,7 @@ const App = () => {
         <Route path="/signup" element={<SignupPage />} />
         <Route path="/create-product" element={<CreateProduct />} />
         {/* for edit product by id */}
-        <Route path="/create-product/:id" element={<CreateProduct />} />
+        <Route path="/create-product/:id" element={<CreateProduct />}  />
         <Route path="/my-products" element={<MyProducts />} />
         <Route path="/cart" element={<Cart />} />
         <Route path="/product/:id" element={<ProductDetails />} />
