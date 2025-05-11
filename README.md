@@ -648,6 +648,30 @@ In this milestone, I implemented secure user session validation using JWT tokens
    ✅ Tested it by accessing a protected dashboard route
 
 This ensures that users cannot access private routes without logging in, improving app security.
+
+## Milestone 35: Deploying Your Project
+
+## ✅ Goals:
+
+### 1️⃣ Deploying the Backend
+- Deployed the backend on a cloud service (e.g., Heroku, AWS, DigitalOcean, etc.).
+- Retrieved the backend deployment link and ensured it was accessible.
+
+### 2️⃣ Deploying the Frontend
+- Replaced the local backend URLs in the frontend code with the backend deployment link.
+- Deployed the frontend to a hosting service (e.g., Netlify, Vercel, or any other platform).
+- Verified that the frontend was connected to the deployed backend and functioning properly.
+
+### 3️⃣ Full Deployment Verification
+- Ensured that both the frontend and backend were correctly deployed and were working as expected.
+- Conducted final tests to confirm that the website was fully functional with deployed backend and frontend.
+
+### 4️⃣ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Deployed both the frontend and backend.
+- ✅ Shared the deployment link in the assignment submission section.
+
+Good luck, Kalvians! ✨
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
